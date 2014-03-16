@@ -1,3 +1,5 @@
+#### Warning: This is a forked repository and it will eventually have all the tests solved. Get the original to find unsolved tests. 
+
 # Clojure Koans
 
 The Clojure Koans are a fun and easy way to get started with Clojure - no
