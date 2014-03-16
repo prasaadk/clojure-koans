@@ -27,4 +27,7 @@
   (= [:butter :and] (subvec [:peanut :butter :and :jelly] 1 3))
 
   "Equality with collections is in terms of values"
-  (= (list 1 2 3) (vector 1 2 3)))
+  (= (list 1 2 3) (vector 1 2 3))
+  
+  "And you can reverse a vector"
+  (= [:jelly :and :butter :peanut] (reverse [:peanut :butter :and :jelly])))
